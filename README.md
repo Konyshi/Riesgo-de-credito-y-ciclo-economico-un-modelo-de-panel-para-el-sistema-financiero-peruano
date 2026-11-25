@@ -1,0 +1,1 @@
+# Riesgo-de-cr-dito-y-ciclo-econ-mico-un-modelo-de-panel-para-el-sistema-financiero-peruano
