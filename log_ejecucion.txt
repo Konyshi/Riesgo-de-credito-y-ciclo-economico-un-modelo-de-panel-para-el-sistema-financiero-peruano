@@ -1,0 +1,20 @@
+[2026-11-25 04:34:02] ======================================================================
+[2026-11-25 04:34:02] INICIO extracción API BCRPData | matrícula 2024200511D
+[2026-11-25 04:34:02] Parámetros congelados: FECHA_INICIO=2018-1 | FECHA_CORTE=2025-12 | períodos esperados=96
+[2026-11-25 04:34:02] Python 3.13.18 | requests 2.32.4
+[2026-11-25 04:34:03] robots.txt -> HTTP 404 (https://estadisticas.bcrp.gob.pe/robots.txt)
+[2026-11-25 04:34:03] robots.txt no disponible como archivo de reglas; la API es un servicio público documentado para desarrolladores.
+[2026-11-25 04:34:05] GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01770AM/json/2018-1/2025-12/esp -> HTTP 200 (intento 1)
+[2026-11-25 04:34:05] PN01770AM | «Producto bruto interno y demanda interna (índice 2007 = 100) - PBI» | filas=96 | Ene.2018 a Dic.2025 | valores n.d.=0 | hash JSON=7f3aa92842006a86…
+[2026-11-25 04:34:06] GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN38063GM/json/2018-1/2025-12/esp -> HTTP 200 (intento 1)
+[2026-11-25 04:34:06] PN38063GM | «Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%)» | filas=96 | Ene.2018 a Dic.2025 | valores n.d.=0 | hash JSON=ff7c813e7c5c244a…
+[2026-11-25 04:34:08] GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN07807NM/json/2018-1/2025-12/esp -> HTTP 200 (intento 1)
+[2026-11-25 04:34:08] PN07807NM | «Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN» | filas=96 | Ene.2018 a Dic.2025 | valores n.d.=0 | hash JSON=7e35650a7a842887…
+[2026-11-25 04:34:10] GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN01207PM/json/2018-1/2025-12/esp -> HTTP 200 (intento 1)
+[2026-11-25 04:34:10] PN01207PM | «Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio» | filas=96 | Ene.2018 a Dic.2025 | valores n.d.=0 | hash JSON=10af864895e806af…
+[2026-11-25 04:34:11] GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN00496MM/json/2018-1/2025-12/esp -> HTTP 200 (intento 1)
+[2026-11-25 04:34:11] PN00496MM | «Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/)» | filas=96 | Ene.2018 a Dic.2025 | valores n.d.=0 | hash JSON=77e1a32d90207a78…
+[2026-11-25 04:34:13] GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PN00499MM/json/2018-1/2025-12/esp -> HTTP 200 (intento 1)
+[2026-11-25 04:34:13] PN00499MM | «Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$)» | filas=96 | Ene.2018 a Dic.2025 | valores n.d.=0 | hash JSON=a451bc641d44ef23…
+[2026-11-25 04:34:15] CSV crudo guardado: datos_crudos/datos_crudos_api_2024200511D.csv | filas=576 | SHA-256=316e5bd784962aaaac824a118d29b055771d06983d3cbe7309b5b2abd17b6c5c
+[2026-11-25 04:34:15] FIN extracción API | series OK=6/6 | errores=0

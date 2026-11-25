@@ -1,0 +1,577 @@
+codigo_serie,variable,nombre_api,periodo_crudo,valor_crudo
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2018,154.592875234452
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2018,151.463758042883
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2018,161.431967543862
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2018,169.423665829414
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2018,174.2009640499
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2018,165.527593034563
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2018,166.517233721098
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2018,166.411982745936
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2018,168.105434901606
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2018,171.60453435013
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2018,170.249555667477
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2018,187.243182650937
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2019,157.193197527055
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2019,154.617113293077
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2019,166.89749978886
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2019,169.417386054755
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2019,175.401831131757
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2019,170.192831247473
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2019,173.06173485187
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2019,172.594321427108
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2019,172.360592193133
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2019,176.250970775075
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2019,174.183397196694
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2019,189.566260025411
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2020,162.385738087125
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2020,161.698428179546
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2020,137.513514528
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2020,102.875343532707
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2020,117.997641487312
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2020,139.382064668287
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2020,153.991673261532
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2020,156.775163672638
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2020,162.247835266957
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2020,170.514293400219
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2020,170.513324971153
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2020,191.519405008399
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2021,160.76619802336
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2021,155.519403928155
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2021,164.834993571958
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2021,164.492286036925
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2021,175.343695357749
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2021,172.012929904623
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2021,174.499180150954
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2021,175.606368609873
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2021,178.522991745203
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2021,178.646823045847
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2021,176.923593572592
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2021,195.423679290646
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2022,165.705479352297
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2022,163.05925121915
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2022,171.273598108185
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2022,171.169961181518
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2022,179.824800668156
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2022,178.434872205517
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2022,177.987942182027
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2022,179.134712364663
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2022,182.374711989312
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2022,183.291728001538
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2022,180.809032415482
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2022,197.935840561143
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2023,164.747248759875
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2023,162.489203079216
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2023,172.699133230943
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2023,172.353130034136
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2023,177.719176835292
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2023,177.192993277921
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2023,176.179873816439
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2023,179.244835514059
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2023,180.721017976619
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2023,182.041114444157
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2023,182.076781161936
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2023,196.064002329094
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2024,167.763729071427
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2024,167.627777899434
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2024,171.991601943114
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2024,181.884033744884
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2024,187.861455834207
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2024,177.84964450269
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2024,184.739893585405
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2024,186.36135917895
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2024,187.029143584624
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2024,189.015297801315
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2024,190.055398147607
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2024,205.997040254343
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ene.2025,175.149967722441
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Feb.2025,172.413387663862
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Mar.2025,180.301149727978
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Abr.2025,184.382408409688
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,May.2025,191.607520174195
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jun.2025,186.845736011489
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Jul.2025,191.529033282344
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Ago.2025,191.224336179192
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Sep.2025,195.448373768798
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Oct.2025,197.113162221401
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Nov.2025,193.176657027969
+PN01770AM,pbi_indice_2007,Producto bruto interno y demanda interna (índice 2007 = 100) - PBI,Dic.2025,214.394422820143
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2018,7.30044123545929
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2018,8.02741812642803
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2018,8.06136520340152
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2018,7.32452455510578
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2018,6.63680233787707
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2018,6.22310557088551
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2018,6.16838916265603
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2018,6.08489845777981
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2018,6.18188758469319
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2018,6.42593336777848
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2018,6.24763418881066
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2018,6.1270630793579
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2019,6.47625184792085
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2019,7.55905811585099
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2019,8.15790974955788
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2019,7.33131693583671
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2019,6.70985300036415
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2019,6.30787479911227
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2019,6.00379186854856
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2019,5.82743016439769
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2019,5.74980872226473
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2019,6.41770086151277
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2019,6.32634182257547
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2019,6.10219634130357
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2020,6.33843407768254
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2020,7.06807743087193
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2020,7.76628491673518
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2020,8.98246837334396
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2020,13.124084108646
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2020,16.2800441854264
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2020,16.3732193732194
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2020,15.5666222440439
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2020,16.5316297912122
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2020,16.4300202839757
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2020,15.1261484809312
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2020,13.8406407202999
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2021,13.0120123824332
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2021,14.4906499364442
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2021,15.2793706190813
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2021,15.1130492268394
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2021,12.0288686657726
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2021,10.3237280278678
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2021,9.39166125417532
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2021,9.53768676648809
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2021,9.97228205255864
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2021,9.59702791683078
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2021,9.09280635065751
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2021,7.83333563173057
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2022,8.61845743904124
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2022,8.89991801257188
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2022,9.41170953182834
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2022,8.26386083287288
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2022,7.21140084215265
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2022,6.77863983835994
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2022,6.83092451759866
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2022,7.32245029519436
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2022,7.6733621307384
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2022,7.16558165860916
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2022,7.61969860143238
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2022,7.11254342382109
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2023,8.0105823425678
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2023,7.32943003768215
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2023,7.48415817778871
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2023,7.07239293818421
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2023,6.77877924473057
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2023,6.55152177042083
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2023,6.264337536596
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2023,6.63768046644873
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2023,6.73135263550191
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2023,6.55411549397905
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2023,6.56296869602442
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2023,6.38618441049656
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2024,7.2
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2024,7.2943638908516
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2024,7.70590601941406
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2024,7.68766828510982
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2024,7.21516917039447
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2024,6.63525492419653
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2024,5.95984108995151
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2024,6.06584003371754
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2024,5.93403868242557
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2024,5.74744726624176
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2024,5.66791032657986
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2024,5.52722588368044
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ene.2025,6.15399676669848
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Feb.2025,6.29667421797395
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Mar.2025,6.5551581924132
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Abr.2025,5.91099326215221
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),May.2025,5.58840410171026
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jun.2025,6.37225318082418
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Jul.2025,6.05857130008092
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Ago.2025,5.98730317433182
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Sep.2025,5.74957515872896
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Oct.2025,5.93693531631924
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Nov.2025,5.92567917868739
+PN38063GM,tasa_desempleo_lima,Empleo Mensual en Lima Metropolitana - Promedio móvil tres meses (porcentaje) - Tasa de Desempleo (%),Dic.2025,4.98799670957274
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2018,15.8884
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2018,15.6932
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2018,15.1135
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2018,14.347
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2018,14.0677
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2018,14.0947
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2018,14.0626
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2018,14.2242
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2018,14.302
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2018,14.1619
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2018,14.2185
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2018,14.2958
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2019,14.321
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2019,14.3586
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2019,14.4926
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2019,14.509
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2019,14.4781
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2019,14.589
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2019,14.501
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2019,14.4355
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2019,14.4193
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2019,14.2445
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2019,14.192
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2019,14.0848
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2020,14.351
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2020,14.2166
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2020,14.0555
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2020,13.3643
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2020,12.7823
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2020,12.4427
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2020,12.2887
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2020,12.3435
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2020,12.4423
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2020,12.4984
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2020,12.3737
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2020,12.101
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2021,12.0323
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2021,11.8846
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2021,11.1365
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2021,11.0793
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2021,10.8042
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2021,10.683
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2021,10.6816
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2021,10.6861
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2021,10.4913
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2021,10.5577
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2021,10.7307
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2021,10.9868
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2022,11.1277
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2022,11.2939
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2022,11.5168
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2022,11.8497
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2022,12.1248
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2022,12.4933
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2022,12.6616
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2022,12.9406
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2022,13.3757
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2022,13.5935
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2022,13.926
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2022,14.2635
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2023,14.4623
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2023,14.7364
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2023,14.8803
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2023,15.1693
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2023,15.2971
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2023,15.539
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2023,15.6423
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2023,15.7516
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2023,15.9513
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2023,15.9116
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2023,15.876
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2023,15.8642
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2024,15.8087
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2024,15.7303
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2024,15.76
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2024,15.734
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2024,15.7542
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2024,15.6527
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2024,15.081
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2024,14.9261
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2024,14.7177
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2024,14.7445
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2024,14.781
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2024,14.8781
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ene.2025,14.9906
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Feb.2025,14.9064
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Mar.2025,14.7668
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Abr.2025,14.9607
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,May.2025,14.9519
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jun.2025,14.9807
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Jul.2025,15.0445
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Ago.2025,15.149
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Sep.2025,15.3507
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Oct.2025,15.5555
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Nov.2025,15.7477
+PN07807NM,tasa_activa_tamn,Tasas de interés activas y pasivas promedio de las empresas bancarias en MN (términos efectivos anuales) - Activas - TAMN,Dic.2025,15.8871
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2018,3.21490952380952
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2018,3.24881
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2018,3.252255
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2018,3.230685
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2018,3.27410909090909
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2018,3.271345
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2018,3.27722380952381
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2018,3.28871904761905
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2018,3.31181
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2018,3.33476818181818
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2018,3.37565
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2018,3.36438421052632
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2019,3.34381363636364
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2019,3.3216
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2019,3.30431904761905
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2019,3.303405
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2019,3.33350454545455
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2019,3.325475
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2019,3.29040476190476
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2019,3.37871
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2019,3.35719047619048
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2019,3.36007619047619
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2019,3.372715
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2019,3.3547380952381
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2020,3.32776363636364
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2020,3.39138
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2020,3.49255454545455
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2020,3.39842
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2020,3.42185
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2020,3.47109523809524
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2020,3.51734090909091
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2020,3.56454761904762
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2020,3.55575909090909
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2020,3.59613636363636
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2020,3.60871904761905
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2020,3.60324285714286
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2021,3.62495
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2021,3.64569
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2021,3.70917826086957
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2021,3.699525
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2021,3.77475714285714
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2021,3.91160476190476
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2021,3.942455
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2021,4.08725238095238
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2021,4.10805454545454
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2021,4.01368
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2021,4.02049523809524
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2021,4.03686818181818
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2022,3.88834285714286
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2022,3.790945
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2022,3.73862173913043
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2022,3.74100526315789
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2022,3.75727727272727
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2022,3.74843809523809
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2022,3.90343684210526
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2022,3.87355909090909
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2022,3.89895909090909
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2022,3.97934761904762
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2022,3.87657619047619
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2022,3.828975
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2023,3.83380476190476
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2023,3.84146
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2023,3.77916086956522
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2023,3.76545
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2023,3.68866818181818
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2023,3.65041904761905
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2023,3.601255
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2023,3.69776818181818
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2023,3.73099523809524
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2023,3.84575909090909
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2023,3.76079523809524
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2023,3.73394210526316
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2024,3.74074285714286
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2024,3.8279380952381
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2024,3.70898947368421
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2024,3.71503181818182
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2024,3.73172727272727
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2024,3.7867052631579
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2024,3.764135
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2024,3.74185
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2024,3.7689619047619
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2024,3.75436363636364
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2024,3.779135
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2024,3.73553684210526
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ene.2025,3.74692272727273
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Feb.2025,3.69685
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Mar.2025,3.65248571428571
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Abr.2025,3.70003
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,May.2025,3.65991428571429
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jun.2025,3.60219523809524
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Jul.2025,3.556945
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Ago.2025,3.542385
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Sep.2025,3.50180454545455
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Oct.2025,3.41322727272727
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Nov.2025,3.37263
+PN01207PM,tc_interbancario_prom,Tipo de cambio - promedio del periodo (S/ por US$) - Interbancario - Promedio,Dic.2025,3.36686315789474
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2018,201248.71082
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2018,202779.6839
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2018,204562.37733
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2018,207067.88724
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2018,208690.43376
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2018,210281.34961
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2018,211742.64595
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2018,213456.96537
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2018,215787.304141
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2018,218748.784601
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2018,220911.959251
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2018,224163.348707
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2019,224579.331339
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2019,225226.427899
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2019,227759.469169
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2019,228806.088389
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2019,230651.463949
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2019,232786.207884
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2019,234171.923774
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2019,236405.748554
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2019,237882.130719
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2019,241828.917009
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2019,243894.640024
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2019,245937.030918
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2020,245980.601718
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2020,248407.393333
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2020,250284.023431
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2020,251377.762838
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2020,273085.153861
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2020,276748.61925
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2020,283259.668987
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2020,289779.085348
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2020,292534.143736
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2020,293552.273957
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2020,294746.4469
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2020,294149.738347
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2021,292895.297182
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2021,290455.415839
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2021,293095.845998
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2021,294888.320565
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2021,296375.138086
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2021,297732.351212
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2021,300258.870227
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2021,301216.742384
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2021,304033.432757
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2021,306279.911953
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2021,309065.886158
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2021,309878.35183
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2022,308917.275503
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2022,312211.130202
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2022,314866.182699
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2022,314689.770085
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2022,315883.942223
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2022,316850.95827
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2022,317222.91514
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2022,316322.571118
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2022,316449.144022
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2022,317266.809012
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2022,318685.620308
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2022,316908.193963
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2023,314534.329838
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2023,313020.558391
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2023,316168.658308
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2023,317131.933482
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2023,316731.454602
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2023,316416.645517
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2023,317602.626361
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2023,317588.562078
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2023,317159.969074
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2023,318665.086769
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2023,319784.499386
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2023,319884.487393
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2024,316777.292419
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2024,315623.735476
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2024,317172.002144
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2024,319429.519861
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2024,321106.469962
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2024,322128.773564
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2024,318642.348459
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2024,320046.234688
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2024,319270.748362
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2024,320659.99858
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2024,322894.228593
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2024,322604.546508
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ene.2025,321435.437388
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Feb.2025,322368.14893
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Mar.2025,323745.03934
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Abr.2025,325304.191069
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),May.2025,327880.10625
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jun.2025,328105.690159
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Jul.2025,330637.769299
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Ago.2025,332845.140888
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Sep.2025,332981.59427
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Oct.2025,334945.949318
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Nov.2025,338123.478191
+PN00496MM,credito_mn_millones,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito MN (millones S/),Dic.2025,339522.635179
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2018,25116.147324
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2018,25174.331199
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2018,25207.728773
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2018,25297.737771
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2018,25649.643546
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2018,25688.851593
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2018,25661.493936
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2018,25606.739178
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2018,25825.373556
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2018,25464.153566
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2018,25679.836278
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2018,25876.71686
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2019,25391.940512
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2019,25226.278156
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2019,25391.346019
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2019,25612.347975
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2019,25737.009209
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2019,25777.149672
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2019,25900.208493
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2019,26021.665439
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2019,25859.36343
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2019,26065.994459
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2019,26001.648946
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2019,25773.485322
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2020,25698.640416
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2020,25535.698309
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2020,26265.231118
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2020,26664.345145
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2020,26013.708927
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2020,25219.938932
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2020,24813.093568
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2020,24037.550861
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2020,23272.466287
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2020,23286.589686
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2020,23085.600997
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2020,22945.835621
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2021,22850.208231
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2021,22439.028489
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2021,22547.240726
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2021,22857.701647
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2021,23686.389408
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2021,24088.384001
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2021,24091.130075
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2021,23400.955949
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2021,22575.11459
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2021,22532.164188
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2021,22413.393264
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2021,22763.846421
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2022,22842.039712
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2022,23032.775757
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2022,23554.811077
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2022,23864.042076
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2022,24350.688094
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2022,24853.161264
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2022,25724.087374
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2022,25584.73587
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2022,25373.013947
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2022,25410.34009
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2022,25427.407768
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2022,25501.089871
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2023,25507.048609
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2023,25621.886093
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2023,26097.831178
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2023,26236.535567
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2023,26184.06101
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2023,26282.836837
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2023,25998.642077
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2023,26270.745359
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2023,26567.503416
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2023,26180.853951
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2023,26116.82198
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2023,26316.456581
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2024,26000.546633
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2024,25419.86579
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2024,25979.533841
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2024,26051.713008
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2024,26162.842417
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2024,26131.631065
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2024,26081.792819
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2024,25861.819906
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2024,25697.445816
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2024,25237.265329
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2024,25259.13534
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2024,25383.677791
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ene.2025,25288.200252
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Feb.2025,25554.116135
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Mar.2025,25602.487517
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Abr.2025,25808.294635
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),May.2025,26433.447683
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jun.2025,27050.167628
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Jul.2025,27153.017329
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Ago.2025,27384.683694
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Sep.2025,27577.804552
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Oct.2025,27704.935716
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Nov.2025,27870.063196
+PN00499MM,credito_me_millones_usd,Crédito de las sociedades creadoras de depósito al sector privado (fin de periodo) - Crédito ME (millones US$),Dic.2025,28390.795898
