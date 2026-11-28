@@ -826,3 +826,27 @@
 [2026-11-26 04:58:16 UTC] RESUMEN cajas_rurales: filas=673 | nombres de empresa distintos=11
 [2026-11-26 04:58:16 UTC] CSV crudo guardado: datos_crudos/datos_crudos_sbs_2024200511D.csv | filas=4511 | SHA-256=435b582678a90c342e7f05758231cd19d94d2bbb4005b8210f7443f184828721
 [2026-11-26 04:58:16 UTC] FIN descarga SBS | errores=0
+[2026-11-28 04:46:13 UTC] ======================================================================
+[2026-11-28 04:46:13 UTC] INICIO limpieza de datos | matrícula 2024200511D
+[2026-11-28 04:46:13 UTC] Parámetros: FECHA_INICIO=2018-01 | FECHA_CORTE=2025-12 | períodos=96
+[2026-11-28 04:46:13 UTC] Python 3.13.18 | pandas 2.2.3 | numpy 2.4.6
+[2026-11-28 04:46:13 UTC] Hash SHA-256 del crudo API: 316e5bd784962aaaac824a118d29b055771d06983d3cbe7309b5b2abd17b6c5c
+[2026-11-28 04:46:13 UTC] Hash SHA-256 del crudo SBS: 435b582678a90c342e7f05758231cd19d94d2bbb4005b8210f7443f184828721
+[2026-11-28 04:46:13 UTC] BCRP: 576 filas crudas | valores no numéricos = 0
+[2026-11-28 04:46:13 UTC] BCRP: tabla mensual 2018-01 a 2025-12 | 96 meses | variables = 7
+[2026-11-28 04:46:13 UTC] SBS: 4511 filas crudas (384 filas TOTAL de control) | valores que no eran numéricos = 0
+[2026-11-28 04:46:13 UTC] SBS: la suma de empresas coincide con la fila TOTAL en los 384 segmento-mes
+[2026-11-28 04:46:13 UTC] SBS: 71 nombres originales -> 52 entidades (sin duplicados entidad-mes)
+[2026-11-28 04:46:13 UTC] ADVERTENCIA: 70 filas sin créditos directos positivos; la razón queda vacía (no se imputa)
+[2026-11-28 04:46:13 UTC] SBS: filas con descuadre interno = 2 | morosidad atípica marcada (no eliminada) = 48 | morosidad vacía = 70
+[2026-11-28 04:46:13 UTC] Panel balanceado: 35 entidades x 96 meses = 3360 observaciones
+[2026-11-28 04:46:13 UTC]   banca_multiple: 15 entidades
+[2026-11-28 04:46:13 UTC]   cajas_municipales: 10 entidades
+[2026-11-28 04:46:13 UTC]   cajas_rurales: 4 entidades
+[2026-11-28 04:46:13 UTC]   empresas_financieras: 6 entidades
+[2026-11-28 04:46:13 UTC] Base completa (incluye entidades que entraron o salieron): 4127 filas | 52 entidades
+[2026-11-28 04:46:13 UTC] Morosidad del panel balanceado (%): mín=0.00 | mediana=4.92 | máx=73.79
+[2026-11-28 04:46:13 UTC] Entidades fuera del panel principal (17): Crediscotia Financiera (86 meses); Compartamos Financiera (84 meses); Financiera Credinka (80 meses); CMAC Sullana (78 meses); CRAC Raíz (67 meses); Bank of China (66 meses); CRAC Cencosud Scotia (66 meses); Amérika Financiera (58 meses); CRAC Sipán (44 meses); Banco BCI Perú (42 meses); Financiera TFC S.A. (23 meses); Financiera Surgir (21 meses); CRAC CAT (16 meses); B. Cencosud (14 meses); Compartamos Banco (12 meses); Santander Consumer Bank (7 meses); Financiera Santander Consumer (3 meses)
+[2026-11-28 04:46:14 UTC] Base procesada guardada: datos_procesados/datos_procesados_2024200511D.csv | filas=4127 | columnas=26 (variables sustantivas=19)
+[2026-11-28 04:46:14 UTC] SHA-256 de datos_procesados: ff082ad7e7a81e8289f88d67a4708a5e986b93a6e395a3eae51a8f664d632ce5
+[2026-11-28 04:46:14 UTC] FIN limpieza de datos | errores=0

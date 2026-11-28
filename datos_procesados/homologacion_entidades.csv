@@ -1,0 +1,72 @@
+entidad,empresa_crudo,segmento,desde,hasta,meses
+Alfin Banco,B. Azteca Perú,banca_multiple,2018-01,2021-10,46
+Alfin Banco,Alfin Banco 1/ ,banca_multiple,2021-11,2025-04,42
+Alfin Banco,Alfin Banco,banca_multiple,2025-05,2025-12,8
+B. BBVA Perú,B. Continental,banca_multiple,2018-01,2019-05,17
+B. BBVA Perú,B. BBVA Perú*,banca_multiple,2019-06,2019-06,1
+B. BBVA Perú,B. BBVA Perú,banca_multiple,2019-07,2025-12,78
+B. Cencosud,B. Cencosud,banca_multiple,2018-01,2019-02,14
+B. Falabella Perú,B. Falabella Perú,banca_multiple,2018-01,2025-12,96
+B. GNB,B. GNB,banca_multiple,2018-01,2025-12,96
+B. ICBC,B. ICBC,banca_multiple,2018-01,2025-12,96
+B. Interamericano de Finanzas,B. Interamericano de Finanzas,banca_multiple,2018-01,2025-12,96
+B. Pichincha,B. Financiero,banca_multiple,2018-01,2018-07,7
+B. Pichincha,B. Pichincha*,banca_multiple,2018-08,2018-09,2
+B. Pichincha,B. Pichincha,banca_multiple,2018-10,2025-12,87
+B. Ripley,B. Ripley ,banca_multiple,2018-01,2025-12,96
+B. Santander Perú,B. Santander Perú ,banca_multiple,2018-01,2025-12,96
+B. de Crédito del Perú,B. de Crédito del Perú (con sucursales en el exterior),banca_multiple,2018-01,2025-12,96
+BANCOM,B. de Comercio,banca_multiple,2018-01,2023-08,68
+BANCOM,BANCOM,banca_multiple,2023-09,2025-12,28
+Banco BCI Perú,Banco BCI Perú*,banca_multiple,2022-07,2022-10,4
+Banco BCI Perú,Banco BCI Perú,banca_multiple,2022-11,2025-12,38
+Bank of China,Bank of China*,banca_multiple,2020-07,2020-07,1
+Bank of China,Bank of China,banca_multiple,2020-08,2025-12,65
+Citibank,Citibank,banca_multiple,2018-01,2025-12,96
+Compartamos Banco,Compartamos Banco**,banca_multiple,2025-01,2025-03,3
+Compartamos Banco,Compartamos Banco,banca_multiple,2025-04,2025-12,9
+Interbank,Interbank (con sucursales en el exterior),banca_multiple,2018-01,2021-03,39
+Interbank,Interbank,banca_multiple,2021-04,2025-12,57
+Mibanco,Mibanco,banca_multiple,2018-01,2025-12,96
+Santander Consumer Bank,Santander Consumer Bank*,banca_multiple,2025-06,2025-08,3
+Santander Consumer Bank,Santander Consumer Bank,banca_multiple,2025-09,2025-12,4
+Scotiabank Perú,Scotiabank Perú,banca_multiple,2018-01,2025-12,96
+CMAC Arequipa,CMAC Arequipa,cajas_municipales,2018-01,2025-12,96
+CMAC Cusco,CMAC Cusco,cajas_municipales,2018-01,2025-12,96
+CMAC Del Santa,CMAC Del Santa,cajas_municipales,2018-01,2025-12,96
+CMAC Huancayo,CMAC Huancayo,cajas_municipales,2018-01,2025-12,96
+CMAC Ica,CMAC Ica ,cajas_municipales,2018-01,2025-12,96
+CMAC Maynas,CMAC Maynas,cajas_municipales,2018-01,2025-12,96
+CMAC Paita,CMAC Paita,cajas_municipales,2018-01,2025-12,96
+CMAC Piura,CMAC Piura,cajas_municipales,2018-01,2025-12,96
+CMAC Sullana,CMAC Sullana,cajas_municipales,2018-01,2024-05,77
+CMAC Sullana,CMAC Sullana *,cajas_municipales,2024-06,2024-06,1
+CMAC Tacna,CMAC Tacna,cajas_municipales,2018-01,2025-12,96
+CMAC Trujillo,CMAC Trujillo,cajas_municipales,2018-01,2025-12,96
+CRAC CAT,CRAC CAT*,cajas_rurales,2019-03,2019-03,1
+CRAC CAT,CRAC CAT ,cajas_rurales,2019-04,2020-06,15
+CRAC Cencosud Scotia,CRAC Cencosud Scotia*,cajas_rurales,2020-07,2020-07,1
+CRAC Cencosud Scotia,CRAC Cencosud Scotia,cajas_rurales,2020-08,2025-12,65
+CRAC Incasur,CRAC Incasur,cajas_rurales,2018-01,2025-12,96
+CRAC Los Andes,CRAC Los Andes,cajas_rurales,2018-01,2025-12,96
+CRAC Prymera,CRAC Prymera,cajas_rurales,2018-01,2025-12,96
+CRAC Raíz,CRAC Raíz,cajas_rurales,2018-01,2023-06,66
+CRAC Raíz,CRAC Raíz *,cajas_rurales,2023-07,2023-07,1
+CRAC Sipán,CRAC Sipán,cajas_rurales,2018-01,2021-08,44
+CRAC del Centro,CRAC del Centro,cajas_rurales,2018-01,2025-12,96
+Amérika Financiera,Amérika Financiera,empresas_financieras,2018-01,2022-10,58
+Compartamos Financiera,Compartamos Financiera,empresas_financieras,2018-01,2024-12,84
+Crediscotia Financiera,Crediscotia Financiera,empresas_financieras,2018-01,2025-02,86
+Financiera Confianza,Financiera Confianza,empresas_financieras,2018-01,2025-12,96
+Financiera Credinka,Financiera Credinka,empresas_financieras,2018-01,2024-08,80
+Financiera Efectiva,Financiera Efectiva,empresas_financieras,2018-01,2025-12,96
+Financiera Oh!,Financiera Oh!,empresas_financieras,2018-01,2025-12,96
+Financiera Proempresa,Financiera Proempresa,empresas_financieras,2018-01,2025-12,96
+Financiera Qapaq,Financiera Qapaq,empresas_financieras,2018-01,2025-12,96
+Financiera Santander Consumer,Financiera Santander Consumer*,empresas_financieras,2025-03,2025-05,3
+Financiera Surgir,Financiera Surgir*,empresas_financieras,2024-04,2024-08,5
+Financiera Surgir,Financiera Surgir,empresas_financieras,2024-09,2025-12,16
+Financiera TFC S.A.,Finaciera TFC S.A.,empresas_financieras,2018-01,2019-10,21
+Financiera TFC S.A.,Finaciera TFC S.A.*,empresas_financieras,2018-12,2018-12,1
+Financiera TFC S.A.,Financiera TFC S.A.*,empresas_financieras,2019-11,2019-11,1
+Mitsui Auto Finance,Mitsui Auto Finance,empresas_financieras,2018-01,2025-12,96
